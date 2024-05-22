@@ -6,9 +6,7 @@
     font-family: Inter;
 }
 
-.container {
-    max-width: 1344px;
-}
+
 
 a {
     display: inline-block;
@@ -201,9 +199,6 @@ ul, ol {
     margin: 20px auto 50px;
 }
 
-#services .container .row {
-    gap: 24px;
-}
 
 #services .container .row .col-lg-4 {
     max-width: 424px;
